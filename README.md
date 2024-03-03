@@ -8,6 +8,7 @@ Users can donate to the school via the API
 * Faker
 * PostgreSQL
 * Devise (For Authentication)
+* Jbuilder (for json object representation for front end)
 
 ## Development Setup
 1. Clone the project repo
